@@ -56,7 +56,7 @@ apt-get install whois
 apt-get install netdiscover
 apt-get install dmitry
 apt-get install theharvester
-apt-get install speedtest
+apt-get install speedtest-cli
 echo -n "Press '1' to go back or Press "'Enter'" to exit "
 read inp
 case $inp in
